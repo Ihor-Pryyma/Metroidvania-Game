@@ -1,6 +1,6 @@
 # Metroidvania Game
 
-This is a Metroidvania-style game developed using JavaScript.
+This is a Metroidvania-style game developed using JavaScript and Kaboom.js.
 
 ## Description
 
