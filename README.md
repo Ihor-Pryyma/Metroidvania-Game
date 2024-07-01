@@ -19,7 +19,7 @@ To install and run this project, you don't need to have Node.js installed on you
 1. Clone the repository: `git clone https://github.com/Ihor-Pryyma/Metroidvania-Game.git`
 2. Navigate into the project directory: `cd Metroidvania-Game`
 3. Open index.html in your browser
-4. Start the game
+4. Start the game.
 
 ## Usage
 
